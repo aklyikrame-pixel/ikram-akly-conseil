@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ikram-akly-conseil.pages.dev/sitemap.xml
